@@ -1,0 +1,4002 @@
+[
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    },
+    {
+        "input": "1.234,56 Euro wurden ausgegeben.",
+        "output": "etwa 1.200 Euro wurden ausgegeben."
+    },
+    {
+        "input": "9,99 Prozent sind betroffen.",
+        "output": "fast alle sind betroffen."
+    },
+    {
+        "input": "67,8 Grad Celsius ist sehr heiß.",
+        "output": "sehr heiß."
+    },
+    {
+        "input": "4.567,89 Personen nahmen teil.",
+        "output": "etwa 5.000 Personen nahmen teil."
+    },
+    {
+        "input": "12,34 Euro sind sehr wenig.",
+        "output": "fast nichts."
+    },
+    {
+        "input": "876,54 Kilometer sind noch zu fahren.",
+        "output": "etwa 900 Kilometer sind noch zu fahren."
+    },
+    {
+        "input": "1.234,56 Personen sind betroffen.",
+        "output": "etwa 1.200 Personen sind betroffen."
+    },
+    {
+        "input": "324.620,22 Euro wurden gespendet.",
+        "output": "etwa 325.000 Euro wurden gespendet."
+    },
+    {
+        "input": "1.897 Menschen nahmen teil.",
+        "output": "etwa 2.000 Menschen nahmen teil."
+    },
+    {
+        "input": "25 Prozent der Bevölkerung sind betroffen.",
+        "output": "jeder Vierte der Bevölkerung sind betroffen."
+    },
+    {
+        "input": "90 Prozent stimmten zu.",
+        "output": "fast alle stimmten zu."
+    },
+    {
+        "input": "14 Prozent lehnten ab.",
+        "output": "wenige lehnten ab."
+    },
+    {
+        "input": "Bei 38,7 Grad Celsius ist es sehr heiß.",
+        "output": "Bei etwa 39 Grad Celsius ist es sehr heiß."
+    },
+    {
+        "input": "denn die Rente steigt um 4,57 Prozent.",
+        "output": "denn die Rente steigt um wenige."
+    },
+    {
+        "input": "Im Jahr 2024 gab es 1.234 Ereignisse.",
+        "output": "Im Jahr 2024 gab es etwa 1.000 Ereignisse."
+    },
+    {
+        "input": "Am 1. Januar 2024 waren es 5.678 Teilnehmer.",
+        "output": "Am 1. Januar 2024 waren es etwa 6.000 Teilnehmer."
+    },
+    {
+        "input": "Im Jahr 2025 gab es 2018 Ereignisse.",
+        "output": "Im Jahr 2025 gab es etwa 2000 Ereignisse."
+    },
+    {
+        "input": "456.789 Menschen besuchten das Museum.",
+        "output": "etwa 500 Menschen besuchten das Museum."
+    },
+    {
+        "input": "27,5 Kilometer sind noch zu laufen.",
+        "output": "etwa 30 Kilometer sind noch zu laufen."
+    }
+]
